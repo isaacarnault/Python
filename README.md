@@ -1,4 +1,4 @@
-# Permutations using Python
+# Simple permutations using Python
 
 One simple program using Python for applying strings and integer permutations.<br>
 The following gist offers a program scaled in four subsets:
