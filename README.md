@@ -88,9 +88,9 @@ I used no vesioning system for this gist. My gist gist's <b>repos status<b> is f
 
 ## License
 
-All public gists https://gist.github.com/aiPhD
-Copyright 2018, Isaac Arnault
- MIT License, http://www.opensource.org/licenses/mit-license.php
+All public gists https://gist.github.com/aiPhD<br>
+Copyright 2018, Isaac Arnault<br>
+MIT License, http://www.opensource.org/licenses/mit-license.php
 
 ## Use case - Applying a <i>factorial n</i> function in a card game
 
