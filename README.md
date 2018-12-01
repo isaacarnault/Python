@@ -80,15 +80,17 @@ of numbers 3,6,9 as output.
 
 ## Versioning
 
-no vesioning system used
+I used no vesioning system for this gist. My gist gist's <b>repos status<b> is flagged as <b>concept<b> because it is intended to be a demo or POC (proof-of-concept).
 
 ## Author
 
-* **Isaac Arnault** - Suggesting a minified code from *Initial work* by [redspider](https://gist.github.com/redspider/3787386)
+* **Isaac Arnault** - Suggesting a minified code from *Initial work* [redspider](https://gist.github.com/redspider/3787386)
 
 ## License
 
-open license
+All public gists https://gist.github.com/aiPhD
+Copyright 2018, Isaac Arnault
+ MIT License, http://www.opensource.org/licenses/mit-license.php
 
 ## Use case - Applying a <i>factorial n</i> function in a card game
 
