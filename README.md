@@ -80,7 +80,7 @@ of numbers 3,6,9 as output.
 
 ## Versioning
 
-I used no vesioning system for this gist. My gist gist's <b>repos status<b> is flagged as <b>concept<b> because it is intended to be a demo or POC (proof-of-concept).
+I used no vesioning system for this gist. My repository's status is flagged as <b>active<b> because it has reached a stable, usable state. Original [gist](https://gist.github.com/aiPhD/f4cdef7878e88ee2bed1254a2b5fbcb5) related to this repository is pending as <b>concept<b>.
 
 ## Author
 
