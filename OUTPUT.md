@@ -71,10 +71,15 @@ print(number_permutations(3, 3))
   
 ```python
 # Full program
-from itertools import permutations
-perm = permutations([3, 6, 9])    
-for (i) in list(perm):
-  print (i)
+from math import factorial
+def number_permutations(n, k):
+    return factorial(n)/factorial(n-k)
+q = '''\
+How many times can 4 aces from a standard 52-card deck
+permutate while I shuffle the cards?
+'''
+print(q)
+print(number_permutations(52, 4))
 ```
 
 </p>
