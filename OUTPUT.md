@@ -63,7 +63,7 @@ print(number_permutations(3, 3))
 </p>
 </details>
 
-[![isaac-arnault-integers-strings-permutation.png](https://i.postimg.cc/7LczFg48/isaac-arnault-integers-strings-permutation.png)](https://postimg.cc/WDGtrqtX)
+[![isaac-arnault-python-integers-strings-permutations.png](https://i.postimg.cc/mDBJghXY/isaac-arnault-python-integers-strings-permutations.png)](https://postimg.cc/Y4DbX2w0)
 
 * use case: apply permutations on a card game, see <b>use_case_permutations.py</b>
 <details><summary>use_case_permutations</summary>
